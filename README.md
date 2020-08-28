@@ -1,3 +1,3 @@
-# justTry
-first repository in Github
-Just trying to visualise how everything works.
+# Modification
+Just Modifying little to check the effect.
+Nothing much.
